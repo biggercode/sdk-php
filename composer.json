@@ -1,5 +1,5 @@
 {
-  "name": "mercadopago/dx-php",
+  "name": "biggercode/dx-php",
   "description": "Mercado Pago PHP SDK",
   "type": "library",
   "homepage": "https://github.com/mercadopago/sdk-php",
